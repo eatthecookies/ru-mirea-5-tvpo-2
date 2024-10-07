@@ -1,4 +1,4 @@
-Клонирование проекта: `git clone https://github.com/eatthecookies/ru-mirea-5-tvpo-2'
+Клонирование проекта: `git clone https://github.com/eatthecookies/ru-mirea-5-tvpo-2`
 
 Создается файл `test_shape_calculator.py` с тестами для `shape_calculator.py`
 
