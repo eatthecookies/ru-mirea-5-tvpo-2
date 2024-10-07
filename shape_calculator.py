@@ -16,6 +16,6 @@ def calculate_triangle_area(base, height):
 def calculate_sphere_volume(radius):
     return (4 / 3) * math.pi * radius ** 3
 
-# Функция для вычисления объема цилиндра (с ошибкой)
+# Функция для вычисления объема цилиндра 
 def calculate_cylinder_volume(radius, height):
     return 2 * math.pi * radius * height
